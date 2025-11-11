@@ -32,7 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
 </div>
 
-## 🏢 My projects
+## 
+<h3 align="left">My projects</h3>
 
 <p align="left">
   <a href="https://github.com/stefia-react">
