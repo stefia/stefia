@@ -1,7 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF86C4"  />
-</div>
-
 ###
 
 <h3 align="center">👋 Hi, I’m Stefia</h3>
@@ -57,7 +53,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://t.me/stef1a" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="telegram logo"
+    />
+  </a>
 </div>
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF86C4"  />
+</div>
