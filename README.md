@@ -34,9 +34,18 @@
 
 ## 🏢 My projects
 
-[![React](https://img.shields.io/badge/React–Projects–61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/your-org-react)
-[![Vanilla JS](https://img.shields.io/badge/Vanilla–JS–F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/your-org-js)
-[![Markup](https://img.shields.io/badge/Markup–Works–E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/your-org-markup)
+<p align="left">
+  <a href="https://github.com/stefia-react">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://github.com/stefia-js">
+    <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://github.com/stefia-markup">
+    <img src="https://img.shields.io/badge/Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
+
 
 ###
 
