@@ -8,6 +8,16 @@
 
 <p align="center">Junior Frontend Developer</p>
 
+<div align="center">
+  <a href="https://t.me/stef1a" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="telegram logo"
+    />
+  </a>
+</div>
+
 ###
 
 <h3 align="center">I code with</h3>
@@ -54,15 +64,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://t.me/stef1a" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" 
-      height="25" 
-      alt="telegram logo"
-    />
-  </a>
-</div>
 
 ###
 
