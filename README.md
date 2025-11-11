@@ -1,4 +1,6 @@
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF86C4"  />
+</div>
 
 <h3 align="center">👋 Hi, I’m Stefia</h3>
 
@@ -8,7 +10,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h3 align="center">I code with</h3>
 
 ###
 
@@ -29,7 +31,7 @@
 </div>
 
 ## 
-<h3 align="left">My projects</h3>
+<h3 align="center">My projects</h3>
 
 <p align="center">
   <a href="https://github.com/stefia-react">
@@ -65,5 +67,5 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF86C4"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF86C4"  />
 </div>
