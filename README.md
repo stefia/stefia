@@ -32,10 +32,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
 </div>
 
+## 🏢 My projects
+
+<p align="left">
+  <a href="https://github.com/stefia-react">
+    <img src="https://img.shields.io/badge/React%20Projects-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://github.com/ystefia-js">
+    <img src="https://img.shields.io/badge/JS%20Utils-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://github.com/stefia-markup">
+    <img src="https://img.shields.io/badge/Markup%20Works-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
+
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stefia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=stefia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
