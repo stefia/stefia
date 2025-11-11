@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+| ⚛️ **React проекты** | Компоненты, хуки, роутинг, Vite | [Перейти →](https://github.com/stefia-react) |
 <!--
 **stefia/stefia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
