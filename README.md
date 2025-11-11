@@ -35,7 +35,7 @@
 ## 
 <h3 align="left">My projects</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/stefia-react">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </a>
