@@ -57,9 +57,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=stefia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5cGZubGpsYnVwZXMzaHp5M3g1OHppcHVqMzV3enNzbmJ1ZndhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif"  />
+
 
 ###
 
