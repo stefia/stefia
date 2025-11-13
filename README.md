@@ -65,6 +65,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FFF"  />
+<div align="center">
+  <img height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5cGZubGpsYnVwZXMzaHp5M3g1OHppcHVqMzV3enNzbmJ1ZndhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif"  />
 </div>
